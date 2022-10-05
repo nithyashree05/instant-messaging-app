@@ -46,7 +46,9 @@ pip install googletrans==3.1.0a0
 pip install textblob
 
 
-ADVANTAGES 
+ADVANTAGES:
+
+
 1.REAL-TIME COMMUNICATIONS 
 -If a contact appears online, we can send  
 messages and receive messages in real  
