@@ -10,8 +10,14 @@ SYSTEM REQUIREMENTS:
 
 
 1)A Laptop/desktop with windows 10 OS 
-2)64-bit architecture CPU 
+
+
+2)64-bit architecture CPU
+
+
 3)8Gb RAM
+
+
 
 *• SOFTWARE REQUIREMENTS*: 
 
@@ -22,10 +28,17 @@ SYSTEM REQUIREMENTS:
 
 3)Tkinter module Python
 
+
+
 *PIP REQUIREMENTS:*
+
+
 pip install mysql.connector
 
+
+
 pip install googletrans==3.1.0a0
+
 
 pip install textblob
 
@@ -45,8 +58,14 @@ time, faster than an email response.
 
 4.TEAM BUILDING 
 
+
+
 *FEATURES:*
+
+
 1)Spelling Corrector using GUI
+
+
 
 2)Language Translator using GUI
 
