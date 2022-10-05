@@ -5,8 +5,11 @@ connection between users so They can talk  to each other synchronously in real T
 instant messaging in The workplace is that it  allows businesses to Communicate with other in real time. As instant Messaging  continues to evolve, more business-Friendly  
 features will be added.
 
-SYSTEM REQUIREMENTS: 
-*• HARDWARE REQUIREMENTS:* 
+SYSTEM REQUIREMENTS:
+
+
+*• HARDWARE REQUIREMENTS:*
+
 
 
 1)A Laptop/desktop with windows 10 OS 
