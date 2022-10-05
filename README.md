@@ -7,34 +7,56 @@ features will be added.
 
 SYSTEM REQUIREMENTS: 
 *• HARDWARE REQUIREMENTS:* 
+
+
 1)A Laptop/desktop with windows 10 OS 
 2)64-bit architecture CPU 
 3)8Gb RAM
 
 *• SOFTWARE REQUIREMENTS*: 
-/n1)Python 3.10.7 
-/n2)MySQL 8.0 Server
-/n3)Tkinter module Python
+
+
+1)Python 3.10.7
+
+2)MySQL 8.0 Server
+
+3)Tkinter module Python
 
 *PIP REQUIREMENTS:*
-/npip install mysql.connector
-/npip install googletrans==3.1.0a0
-/npip install textblob
+pip install mysql.connector
+
+pip install googletrans==3.1.0a0
+
+pip install textblob
+
 
 ADVANTAGES 
-/n1.REAL-TIME COMMUNICATIONS 
+1.REAL-TIME COMMUNICATIONS 
 -If a contact appears online, we can send  
 messages and receive messages in real  
 time, faster than an email response. 
+
+
 2.COST SAVING 
-3.CONVENIENT 
+
+
+3.CONVENIENT
+
+
 4.TEAM BUILDING 
 
 *FEATURES:*
-/n1)Spelling Corrector using GUI
-/n2)Language Translator using GUI
+1)Spelling Corrector using GUI
+
+2)Language Translator using GUI
 
 This Project is made by:
-/n-A.NITHYA SHREE
-/n-S.SANJAY
-/n-S.S.M. KEERTHNA
+
+
+-A.NITHYA SHREE
+
+
+-S.SANJAY
+
+
+-S.S.M. KEERTHNA
