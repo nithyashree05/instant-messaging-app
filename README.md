@@ -5,7 +5,15 @@ connection between users so They can talk  to each other synchronously in real T
 instant messaging in The workplace is that it  allows businesses to Communicate with other in real time. As instant Messaging  continues to evolve, more business-Friendly  
 features will be added.
 
+
+
+
+
+
 SYSTEM REQUIREMENTS:
+
+
+
 
 
 *• HARDWARE REQUIREMENTS:*
@@ -22,6 +30,10 @@ SYSTEM REQUIREMENTS:
 
 
 
+
+
+
+
 *• SOFTWARE REQUIREMENTS*: 
 
 
@@ -30,6 +42,10 @@ SYSTEM REQUIREMENTS:
 2)MySQL 8.0 Server
 
 3)Tkinter module Python
+
+
+
+
 
 
 
@@ -44,6 +60,10 @@ pip install googletrans==3.1.0a0
 
 
 pip install textblob
+
+
+
+
 
 
 ADVANTAGES:
@@ -61,7 +81,10 @@ time, faster than an email response.
 3.CONVENIENT
 
 
-4.TEAM BUILDING 
+4.TEAM BUILDING
+
+
+
 
 
 
@@ -73,6 +96,11 @@ time, faster than an email response.
 
 
 2)Language Translator using GUI
+
+
+
+
+
 
 This Project is made by:
 
