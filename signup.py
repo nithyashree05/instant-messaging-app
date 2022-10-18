@@ -31,7 +31,7 @@ def connect_database():
             con=pymysql.connect(host='localhost',user='root',password='123456789')
             cur=con.cursor()
             cur.execute('create user_data')
-            query='create table data(id int auto_increment primary key not null,email varchar(50),username varchar(100),password varchar(40),timestamp CURRENT_TIMESTAMP());'
+            query='create table data(id int auto_increment primary key not null,email varchar(50),username varchar(100),password varchar(40));'
             cur.execute(query)
             
         except:
